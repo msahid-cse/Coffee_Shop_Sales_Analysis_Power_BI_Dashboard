@@ -100,7 +100,7 @@ daily-brew-coffee-analysis/
 
 ### Page 1: Executive Summary Dashboard
 
-![Executive Summary](Dashboards/main_page.png)
+![Executive Summary](main_page.png)
 
 **Key visualizations:**
 - KPI cards (Revenue, COGS, Profit, Transactions)
@@ -115,7 +115,7 @@ daily-brew-coffee-analysis/
 
 ### Page 2: Store & Staff Performance Dashboard
 
-![Store & Staff Performance](Dashboards/store_and_staff_performance.png)
+![Store & Staff Performance](store_and_staff_performance.png)
 
 **Key visualizations:**
 - Gross profit per staff member
@@ -131,7 +131,7 @@ daily-brew-coffee-analysis/
 
 ### Page 3: Product & Customer Analysis Dashboard
 
-![Product & Customer Analysis](Dashboards/product_and_customer_analysis.png)
+![Product & Customer Analysis](product_and_customer_analysis.png)
 
 **Key visualizations:**
 - Total customers and loyalty metrics
@@ -147,7 +147,7 @@ daily-brew-coffee-analysis/
 
 ### Page 4: Summary Dashboard
 
-![Summary Dashboard](Dashboards/summary.png)
+![Summary Dashboard](summary.png)
 
 **Key visualizations:**
 - Consolidated KPIs and metrics overview
